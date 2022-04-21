@@ -15,4 +15,4 @@ const data = {
 };
 
 console.log("schoomped: ");
-console.log(schoomp(obj2, obj1));
+console.log(schoomp(template, data));
