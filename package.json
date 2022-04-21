@@ -1,0 +1,25 @@
+{
+  "name": "tubeschoomper",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A JSON-based data format converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arynthernium",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arynthernium/tubeschoomper.git"
+  },
+  "keywords": [
+    "json",
+    "format",
+    "webhook"
+  ],
+  "bugs": {
+    "url": "https://github.com/arynthernium/tubeschoomper/issues"
+  },
+  "homepage": "https://github.com/arynthernium/tubeschoomper#readme"
+}
